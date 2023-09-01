@@ -1,1 +1,2 @@
 # Odin-Recipes
+So in this project i will be creating a website that shows how to make some of my favorite foods. It will have images with alt texts, links to different pages with healthy foods, and unhealthy foods, 
